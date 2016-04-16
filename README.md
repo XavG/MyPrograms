@@ -1,2 +1,2 @@
 # MyPrograms
-Here you can find some program I did during my education
+Here you can find some programs I did during my education
